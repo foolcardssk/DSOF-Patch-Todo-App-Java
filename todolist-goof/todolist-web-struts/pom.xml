@@ -11,8 +11,8 @@
     <name>Java Goof :: Todolist Goof :: Todolist Web Struts</name>
 
     <properties>
-        <spring.version>5.3.30</spring.version>
-        <struts2.version>6.2.3</struts2.version>
+        <spring.version>5.3.38</spring.version>
+        <struts2.version>6.3.0.2</struts2.version>
     </properties>
 
     <dependencies>
